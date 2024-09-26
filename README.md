@@ -1,2 +1,5 @@
-# AMPGCV
-Virginia Tech IDPro - Automatic Masurement of Plant Growth Through Computer Vision Codebase
+# AMPGCV Codebase
+
+Virginia Tech College of Engineering - IDPro
+Automatic Masurement of Plant Growth Through Computer Vision  - Research Project
+
