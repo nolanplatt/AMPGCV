@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 import numpy as np
-model = YOLO('*INSERT MODEL NAME*')
+model = YOLO('boundingboxmodel')
 listOfImages = []
 for im in listOfImages:
     results = model(im, save = False)
